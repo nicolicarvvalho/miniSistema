@@ -1,6 +1,6 @@
-# Mini Sistema CRUD PHP & MySQL
+# Mini Sistema CRUD PHP & Postgresql
 
-### Sistema web desenvolvido em PHP nativo e MySQL para gestão de dados, com autenticação de utilizadores e controlo de sessões.
+### Sistema web desenvolvido em PHP nativo e Postgresql para gestão de dados, com autenticação de utilizadores e controle de sessões.
 
 ## 🌼 Tecnologias Utilizadas
 
